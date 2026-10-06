@@ -4,7 +4,7 @@ Compares supplier quotes, flags price increases, and automates approvals and rep
 
 ## Status
 - [x] Step 1: Suppliers, products, quotes API with tests
-- [ ] Step 2: Quote comparison and ranking
+- [x] Step 2: Quote comparison and ranking
 - [ ] Step 3: Excel import and weekly report
 - [ ] Step 4: Auth (JWT)
 - [ ] Step 5: React dashboard
